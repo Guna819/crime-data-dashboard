@@ -1,0 +1,5 @@
+node_modules
+*.pth
+*.pkl
+.DS_Store
+__pycache__

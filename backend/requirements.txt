@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+joblib
+sqlalchemy
+psycopg2-binary
+passlib[bcrypt]
+python-multipart
+email-validator
+python-jose
+numpy
+elasticsearch
+scikit-learn 
+torch
