@@ -53,6 +53,22 @@ const ResetPasswordPage: React.FC = () => {
 
   return (
     <Container className="mt-5">
+      <img
+        src={
+          "https://img.freepik.com/free-vector/abstract-heat-map-thermal-style-background_1048-16348.jpg?t=st=1746532953~exp=1746536553~hmac=fc8ba1393a296dc8c88a00b77077287c01af8dcbfb2b688933dc0d624b53176d&w=1380"
+        }
+        style={{
+          position: "absolute",
+          top: 0,
+          left: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          zIndex: -2,
+          filter: "blur(40px)",
+        }}
+        alt="logo"
+      />
       <Row className="justify-content-md-center">
         <Col md={6}>
           <h2>Reset Password</h2>
