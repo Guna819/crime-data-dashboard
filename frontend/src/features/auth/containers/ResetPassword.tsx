@@ -65,7 +65,7 @@ const ResetPasswordPage: React.FC = () => {
           height: "100%",
           objectFit: "cover",
           zIndex: -2,
-          filter: "blur(40px)",
+          filter: "blur(15px)",
         }}
         alt="logo"
       />
