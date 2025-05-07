@@ -29,7 +29,7 @@ const Signup: React.FC = () => {
     <Container className="mt-5" style={{ maxWidth: "400px" }}>
       <img
         src={
-          "https://img.freepik.com/free-vector/abstract-heat-map-thermal-style-background_1048-16348.jpg?t=st=1746532953~exp=1746536553~hmac=fc8ba1393a296dc8c88a00b77077287c01af8dcbfb2b688933dc0d624b53176d&w=1380"
+          "https://img.freepik.com/free-photo/people-colorful-thermal-scan-with-celsius-degree-temperature_23-2149170124.jpg?t=st=1746593217~exp=1746596817~hmac=f88ac5ac6c52b242a41105e4b64edb108fd1052d3a60c158afc68ea136a88794&w=2000"
         }
         style={{
           position: "absolute",
